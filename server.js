@@ -18,3 +18,5 @@ socket.on('error', (err)=>{
 server.listen(3006, ()=>{
 console.log('El servidor esta escuchando por el puerto ',server.address().port);
 })
+
+alert('test')
