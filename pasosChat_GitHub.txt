@@ -1,0 +1,33 @@
+INICIAMOS.
+Nuevo repositorio.
+
+LO NOMBRAMOS.
+Chat
+
+LO DESCRIBIMOS Y LO HICIMOS PÚBLICO.
+
+Se crea por defecto:
+SSH: git@github.com:diegoD-caldasCaridad/chat.git
+
+CREAMOS UNA SSH KEY:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCYWu9WnkS55bqyIa8db+Z/h3pj5Thw9C7Kd+3umBH2qPs2vFcqWzgHssT7SUwo40LYPCIHLAqrBx4ArnvQOgc4g8XAP8u9p+K0On6A2c9wu9T0CrNWjK1gv6v0D1KJ6yi0MnaTzmOQYYZZ5O08JIUNILx998ss5xgHrpEjUATxVU5rL4d/cvgv3/Y7uMsrgfWDakiKweKqYqLmb8SNuYF72gT7P0ZUwW9c4QOe5xXbHCSID3xpZUpOF/T4V87lmGPWFux9ipEgcLEVmUU9F477HHIwuNb5aUdP+i2Yb+QqVmqipbZt7nCeOGngJY0Ygd+GyBM7yDZ9iUBTs+pzqxAQYtzSlcAsgdyAp1OAvv7yEB+eAcjQOaYI0cLbplNlIsdww4rPDIRDWtnBOpPl7hKsUL6xEuI4m3alRFPE8tk2BkJVxZzJseXB3hY9r3+RJH+rYo35z3LY/7rrnF1s9BEGp84Q+OnDiRtW0aGP7vA4/vWJ68dR6vnd4pclnos7Nfsf0bq+LYZe63TiKEmf8B14tX2eD69QWW3x7bgZJrv69SwUSKXSVwcmTx9OcAErKUGIjZtECIctasEhh1Fp5PiIpV/kqL2JVcCXwyMVfC3RNZ4sjLuMRHE9QkregjnIUnVXgtZ89bPvTod8M7LVNeIzMvxK/d5pgAbmtiL1Ou3AzQ== armandotorocardenas@gmail.com
+
+Esto se hace en la configuración de la cuenta personal "Setting".
+
+
+"esta llave se creó del 'ket gen' que ejecutamos en la terminal del proyecto": aparece en una carpeta oculta en la siguiente ruta:
+
+C:\Users\arman
+
+La carpeta se llama .ssh y dentro contiene un archivo "pub"
+
+Este archivo es de un par de clavesFrases (estas claves las he escrito visibles en algún lugar del archivo pasosChat_terminal_VScode.txt).
+
+Esta SSH Key la he nombrado: visualChat
+
+Entre VScode y su terminal. Mucho ensayo-error. Al final hemos tenido exito. 
+
+Isa Ramirez nos a invitado a Adrian y a mi (invitación que nos ha llegado al correo) y nos hemos unido como colaboradores.
+
+Y creo que eso a sido 
+
+
